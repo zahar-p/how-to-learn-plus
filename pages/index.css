@@ -26,6 +26,14 @@
 
 @import url('../blocks/oakley/oakley.css');
 
+@import url('../blocks/feynman/feynman.css');
+@import url('../blocks/feynman/__title/feynman__title.css');
+@import url('../blocks/feynman/_theme/feynman__title_text.css');
+@import url('../blocks/feynman/__subtitle/feynman__subtitle.css');
+@import url('../blocks/feynman/_theme/feynman__subtitle_text.css');
+@import url('../blocks/feynman/__link/feynman__link.css');
+@import url('../blocks/feynman/_theme/feynman__link_text.css');
+@import url('../blocks/feynman/__logo/feynman__logo.css');
 
 @import url('../blocks/techniques/techniques.css');
 @import url('../blocks/section/section.css');
@@ -47,12 +55,32 @@
 
 @import url('../blocks/digits/digits.css');
 @import url('../blocks/kaufman/kaufman.css');
+@import url('../blocks/kaufman/__triangle/kaufman__triangle.css');
 @import url('../blocks/table/table.css');
 @import url('../blocks/table/__cell/table__cell.css');
 @import url('../blocks/table/_theme/table_theme_dark.css');
 @import url('../blocks/table/_theme/table__cell_text.css');
 @import url('../blocks/table/_theme/table__cell_theme_dark.css');
 @import url('../blocks/table/_theme/table__cell_header.css');
+
+@import url('../blocks/khan/khan.css');
+@import url('../blocks/khan/__container/khan__container.css');
+@import url('../blocks/khan/__author/khan__author.css');
+@import url('../blocks/khan/__title/khan__title.css');
+@import url('../blocks/khan/__quote/khan__quote.css');
+@import url('../blocks/khan/__quote-author/khan__quote-author.css');
+@import url('../blocks/khan/__quote-author-subline/khan__quote-author-subline.css');
+@import url('../blocks/khan/__book-container/khan__book-container.css');
+@import url('../blocks/khan/__book-pic/khan__book-pic.css');
+@import url('../blocks/khan/__buy-link/khan__buy-link.css');
+@import url('../blocks/khan/_theme/khan_text_left.css');
+@import url('../blocks/khan/_theme/khan__author_text.css');
+@import url('../blocks/khan/_theme/khan__title_text.css');
+@import url('../blocks/khan/_theme/khan__quote_text.css');
+@import url('../blocks/khan/_theme/khan__quote-author_text.css');
+@import url('../blocks/khan/_theme/khan__quote-author-subline_text.css');
+@import url('../blocks/khan/_theme/khan__buy-link_text.css');
+
 
 @import url('../blocks/resources/resources.css');
 @import url('../blocks/resources/__link/resources__link.css');
