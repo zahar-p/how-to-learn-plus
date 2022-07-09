@@ -1,4 +1,5 @@
 .kaufman__triangle {
+  animation: rotation 20s linear infinite;
   width: 877px;
   height: 877px;
   margin: auto;

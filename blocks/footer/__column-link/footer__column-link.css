@@ -3,6 +3,8 @@
   flex-direction: row;
   margin-top: 0px;
   margin-bottom: 10px;
+  text-decoration: none;
+  color:  #fff;
 }
 .footer__column-link:last-of-type {
   margin-bottom: 0px;
