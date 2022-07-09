@@ -1,4 +1,5 @@
-.table__cell_header {
+.table__heading {
+  margin: 0;
   font-size: 24px;
   line-height: 1.15;
   font-weight: 600;
