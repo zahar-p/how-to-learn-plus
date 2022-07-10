@@ -19,7 +19,7 @@
 @import url('../blocks/two-colums/__brief/two-columns__brief.css');
 @import url('../blocks/two-colums/__main-text/two-columns__main-text.css');
 @import url('../blocks/two-colums/__paragraph/two-columns__paragraph.css');
-@import url('../blocks/two-colums/_theme/two-columns_span-accent.css');
+@import url('../blocks/two-colums/__span/two-columns__span-accent.css');
 
 @import url('../blocks/video/video.css');
 @import url('../blocks/video/__iframes/video__iframes.css');
@@ -75,9 +75,6 @@
 @import url('../blocks/resources/__logo-zone/resources__logo-zone.css');
 
 @import url('../blocks/footer/footer.css');
-@import url('../blocks/footer/__theme/footer__theme_dark.css');
-@import url('../blocks/footer/__theme/footer__column-heading_theme.css');
-@import url('../blocks/footer/__theme/footer__column-links_theme.css');
 @import url('../blocks/footer/__columns/footer__columns.css');
 @import url('../blocks/footer/__column/footer__column.css');
 @import url('../blocks/footer/__author/footer_author.css');
