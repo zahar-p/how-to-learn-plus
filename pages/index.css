@@ -18,7 +18,7 @@
 @import url('../blocks/two-colums/__brief/two-columns__brief.css');
 @import url('../blocks/two-colums/__main-text/two-columns__main-text.css');
 @import url('../blocks/two-colums/__paragraph/two-columns__paragraph.css');
-@import url('../blocks/two-colums/__span/two-columns__span.css');
+@import url('../blocks/two-colums/__span-accent/two-columns__span-accent.css');
 
 @import url('../blocks/video/video.css');
 @import url('../blocks/video/__iframes/video__iframes.css');
